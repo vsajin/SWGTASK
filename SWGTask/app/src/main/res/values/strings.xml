@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SWGTask</string>
+    <string name="addPhotoText">Select Image</string>
+    <string name="submitText">Submit</string>
+</resources>
